@@ -26,6 +26,10 @@
 - **Bundler:** Vite (or React Scripts, if different)
 
 ---
+> ⚠️ **Note:** This project is currently under development.  
+> Because it relies on **JSON Server** for backend data, it cannot be deployed via GitHub Pages.
+
+---
 
 ## 🚀 Getting Started
 
