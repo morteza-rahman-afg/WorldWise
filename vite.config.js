@@ -10,5 +10,4 @@ export default defineConfig({
       emitError: false, // ولی خطا نده که development قطع نشه
     }),
   ],
-  base: "/WorldWise",
 });
