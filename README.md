@@ -2,8 +2,6 @@
 
 **WorldWise** is a travel tracking app that helps you keep a visual history of the countries you've visited. With an interactive map and simple location tagging, you can log your past trips and plan for new adventures.
 
-> ⚠️ **Note:** This project is currently under active development. Features may change and improvements are continuously being added.
-
 ---
 
 ## ✨ Features
@@ -26,7 +24,7 @@
 - **Bundler:** Vite (or React Scripts, if different)
 
 ---
-> ⚠️ **Note:** This project is currently under development.  
+> ⚠️ **Note:** 
 > Because it relies on **JSON Server** for backend data, it cannot be deployed via GitHub Pages.
 
 ---
